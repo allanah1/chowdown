@@ -1,0 +1,15 @@
+<!DOCtype html>
+<html>
+<head>
+Project
+</head>
+<title> Francis Allanah </title>
+<body>
+<h1>
+My Life
+</h1>
+<p> I am Francis.
+To be continued......
+</p>
+
+</html>
